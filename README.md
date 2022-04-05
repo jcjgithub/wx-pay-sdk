@@ -25,10 +25,10 @@ org.aj.wxpay.constant.WxTradeType
 ### 安装教程
 
 ####  引入maven依赖  
-   <groupId> org.aj</groupId>  
-   <artifactId>wx-pay-sdk </artifactId>  
-   <version>${wx-pay-sdk.version</version>         
-目前是1.0.0 
+   groupI: org.aj
+   artifactId: wx-pay-sdk
+   version:1.0.0   
+
 
 
 
